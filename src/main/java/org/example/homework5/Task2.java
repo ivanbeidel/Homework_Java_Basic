@@ -10,6 +10,7 @@ public class Task2 {
         int year = scanner.nextInt();
        isLeap(year);
 
+
     }
     public static void isLeap(int year) {
         if (((year % 4 == 0) &&

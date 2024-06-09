@@ -20,5 +20,6 @@ public class Main {
         }
         System.out.println("Я не могу купить еду, всё закрыто");
         return false;
+
     }
 }

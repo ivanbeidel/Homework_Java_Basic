@@ -13,6 +13,7 @@ public class Task3 {
         System.out.println("Введите третье их трёх чисел");
         int num3 = scanner.nextInt();
         getMaxNumb(num1, num2, num3);
+
     }
     public static void getMaxNumb (int num1, int num2, int num3) {
         if (num1 > num2 && num1 > num3) {
